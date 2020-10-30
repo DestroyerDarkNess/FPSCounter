@@ -1,0 +1,8 @@
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\bin\Release\FPSCounter.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\bin\Release\FPSCounter.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\bin\Release\FPSCounter.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\obj\Release\FPSCounter.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\obj\Release\FPSCounter.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\obj\Release\FPSCounter.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\obj\Release\FPSCounter.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\FPSCounter\FPSCounter\obj\Release\FPSCounter.pdb
